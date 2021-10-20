@@ -1,0 +1,19 @@
+CSS style sheet
+body {
+}
+h {
+  font-family: Papyrus;
+  font-size: 40px;
+}
+h2 {
+  font-size: 150%; 
+}
+h2 {
+  text-align: center;
+}
+p { 
+  text-align: center;
+}
+p2 {
+  text-align: center;
+}
