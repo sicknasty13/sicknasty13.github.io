@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+
 <title> LabProject #1 </title>
 <body>
 
