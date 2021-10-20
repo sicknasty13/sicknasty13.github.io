@@ -4,9 +4,9 @@
 <body>
 
  
-    <h1 style="text-align:center"> Action without a name, without a who behind it, is meaningless </h1>
+    <h1> Action without a name, without a who behind it, is meaningless </h1>
     <h2> Hanna Rendt </h2>
-<p> <img src="nature.HEIC" alt="Picture of the mountains of Vail, Colorado.">
+<p> <img src="nature.jpg" alt="Picture of the Mountains of Vail, Colorado.">
 </p>
 <p2>  <br> Coming from Vail, where everything was the same </br>           
 <br> Cool place, but missing the Midwestern "Nice"                                      </br>
