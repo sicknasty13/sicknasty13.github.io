@@ -2,14 +2,17 @@
 Project #1
 <!DOCTYPE html>
 <html lang="en">
+ <head> 
+  <link>
 <title> LabProject #1 </title>
+ </head>
 <body>
 
  <p1>
-    <h1 style="text-align:center"> Action without a name, without a who behind it, is meaningless </h1>
+    <h1 style="color:black;font-family:Papyrus"> Action without a name, without a who behind it, is meaningless </h1>
     <h2> Hanna Rendt </h2>
     </p2>
-<p2> <img src="nature.jpg" alt="Picture of the mountains of Vail, Colorado.">
+<p2> <img src="nature.jpg" alt="Picture of the Mountains of Vail, Colorado.">
 </p2>
 <p3>  <br> Coming from Vail, where everything was the same </br>           
 <br> Cool place, but missing the Midwestern "Nice"                                      </br>
